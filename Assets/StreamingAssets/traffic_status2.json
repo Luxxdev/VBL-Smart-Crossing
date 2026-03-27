@@ -1,0 +1,33 @@
+{
+  "current_status": {
+    "vehicleDensity": 0.2,
+    "averageSpeed": 80.0,
+    "weather": "sunny"
+  },
+  "predicted_status": [
+    {
+      "estimated_time": 6000,
+      "predictions": {
+        "vehicleDensity": 0.3,
+        "averageSpeed": 75.0,
+        "weather": "sunny"
+      }
+    },
+    {
+      "estimated_time": 12000,
+      "predictions": {
+        "vehicleDensity": 0.5,
+        "averageSpeed": 60.0,
+        "weather": "clouded"
+      }
+    },
+    {
+      "estimated_time": 20000,
+      "predictions": {
+        "vehicleDensity": 0.6,
+        "averageSpeed": 50.0,
+        "weather": "clouded"
+      }
+    }
+  ]
+}
