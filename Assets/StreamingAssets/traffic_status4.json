@@ -10,7 +10,7 @@
       "predictions": {
         "vehicleDensity": 1.0,
         "averageSpeed": 20.0,
-        "weather": "heavy rain"
+        "weather": "sunny"
       }
     },
     {
